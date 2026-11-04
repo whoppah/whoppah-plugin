@@ -1,0 +1,24 @@
+{
+  "name": "whoppah",
+  "description": "Search Whoppah's live catalogue of curated second-hand design (furniture, lighting, art, decor and designer bags): listing details and photos, similar pieces, seller reviews and shipping options. Read-only, no sign-in; buying happens on whoppah.com.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Whoppah B.V.",
+    "email": "support@whoppah.com"
+  },
+  "homepage": "https://www.whoppah.com/agents",
+  "repository": "https://github.com/whoppah/whoppah-plugin",
+  "license": "MIT",
+  "keywords": [
+    "second-hand",
+    "vintage",
+    "design",
+    "furniture",
+    "lighting",
+    "art",
+    "decor",
+    "designer bags",
+    "marketplace"
+  ],
+  "logo": "assets/logo.png"
+}
